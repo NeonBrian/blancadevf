@@ -1,0 +1,133 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  display: block;
+}
+
+.section-leo-cover {
+  background-image: url("https://www.harleystreetemporium.com/wp-content/uploads/2017/03/man-serious-b-and-aw-lge.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  padding-bottom: 150px;
+  padding-top: 400px;
+}
+
+.section-leo-cover h1 {
+  display: block;
+  text-shadow: 2px 2px 4px #000000;
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 70px;
+  line-height: 68px;
+  font-family: 'Playfair Display', Georgia, serif;
+  color: white;
+  text-transform: uppercase;
+}
+
+.section-leo-cover h2 {
+  font-weight: normal;
+  font-stretch: normal;
+  font-size: 40px;
+  line-height: 35px;
+  font-family: 'Fauna One', Georgia, serif;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body {
+  background-color: #00001a !important;
+}
+
+.footer {
+  padding-top: 70px;
+}
+
+.poster-image {
+  paddint-top: 200px;
+}
+
+.films {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  height: 100%;
+  padding-top: 0px;
+  padding-bottom: 140px
+}
+
+.films h3 {
+  font-family: "Playfair Display", Georgia, serif;
+  text-transform: uppercase;
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: 'Fauna One', Georgia, serif;
+  text-align: left;
+}
+
+.textbg {
+  background-color: white;
+  padding-bottom: 40px;
+}
+
+.film1 {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/564x/53/50/b2/5350b2994952fbbd7fab6411ff9ede40.jpg");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.film2 {
+  background-image: url("https://static.videezy.com/system/resources/thumbnails/000/000/328/original/bokeh2.jpg");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.film3 {
+  background-image: url("https://images.pexels.com/photos/260551/pexels-photo-260551.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.film4 {
+  background-image: url("https://images.pexels.com/photos/314726/pexels-photo-314726.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.film5 {
+  background-image: url("http://www.walldevil.com/wallpapers/w01/555875-abstract-backgrounds-blue-dark-textures.jpg");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.film6 {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/093/696/original/vector-yellow-abstract-background.jpg");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+
+.film7 {
+  background-image: url("http://www.pixelstalk.net/wp-content/uploads/2016/08/1920s-Background.jpg");
+  height: 100%;
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
